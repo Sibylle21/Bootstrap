@@ -1,0 +1,15 @@
+body {
+    margin-top: 10%;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    border-radius: 5px;
+    backdrop-filter: blur(10px);
+    background-color: black;
+}
+
+.carousel-caption {
+    border-radius: 25px;
+    backdrop-filter: blur(10px);
+    background-color: rgba(0, 0, 0, 0.397);
+}
